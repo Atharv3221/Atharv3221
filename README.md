@@ -4,7 +4,7 @@ I'm a passionate developer exploring the depths of software engineering through 
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Currently learning **Design Patterns in Java**  
 - 🛠️ Skilled with tools like **Maven**, **Git**, **Linux**, **Docker**, and **Virtual Machines**  
